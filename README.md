@@ -2,7 +2,7 @@
 
 In this Personality Assessment, five questions will be asked from user. On the base of which, the application will tell you wether you are introvert or extrovert. 
 
-## `First you have to start the backend server`
+## First you have to start the backend server
 
 The backend api's are written in the rails-api.
 It requires the rails 7 version and ruby-3.0.0
