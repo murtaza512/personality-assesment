@@ -1,0 +1,1 @@
+export const endpoints = Object.freeze({ assessment_questions: "http://localhost:3000/api/assessment_questions"})
